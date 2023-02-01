@@ -50,10 +50,6 @@ Technologies used to develop this project:
   </tr>
 </table>
 
-## 🖥 Preview
-
-https://user-images.githubusercontent.com/49074930/215616330-32e2db00-2d3d-47cd-90cc-1589ecc46c63.mp4
-
 ## ⌨ Getting started
 
 <table>
